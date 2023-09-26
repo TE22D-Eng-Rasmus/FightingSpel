@@ -1,7 +1,11 @@
 ﻿
 using System.Transactions;
 
+
 Random generator = new Random();
+
+for (int h = 25; h>0; ) {
+    for (int h2 = 25; h2>0; ) {
 
 Console.WriteLine("Welcome to FightingGame \nEnter your name to START");
 string Name = Console.ReadLine();
@@ -25,7 +29,13 @@ Console.WriteLine($"Clone{Name} did {r} damage\nI thought he could do better");
 Thread.Sleep(1500);
 }
 
-int r2 = generator.Next(10);
+int b = generator.Next(10);
 
-Console.WriteLine($"Han gjorde {r2} skada");
+
+
+Console.WriteLine($"{Name} Did {b} skada");
 Console.ReadLine();
+
+}
+
+}
