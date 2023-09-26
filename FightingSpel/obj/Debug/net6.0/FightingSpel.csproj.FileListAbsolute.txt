@@ -1,0 +1,15 @@
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\bin\Debug\net6.0\FightingSpel.exe
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\bin\Debug\net6.0\FightingSpel.deps.json
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\bin\Debug\net6.0\FightingSpel.runtimeconfig.json
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\bin\Debug\net6.0\FightingSpel.dll
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\bin\Debug\net6.0\FightingSpel.pdb
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.csproj.AssemblyReference.cache
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.AssemblyInfoInputs.cache
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.AssemblyInfo.cs
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.csproj.CoreCompileInputs.cache
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.dll
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\refint\FightingSpel.dll
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.pdb
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\FightingSpel.genruntimeconfig.cache
+C:\Users\rasmus.eng\programering\FightingSpel\FightingSpel\obj\Debug\net6.0\ref\FightingSpel.dll
