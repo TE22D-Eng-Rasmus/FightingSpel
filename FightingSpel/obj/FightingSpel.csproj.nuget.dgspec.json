@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj": {}
+    "C:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj": {
+    "C:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj",
+        "projectUniqueName": "C:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj",
         "projectName": "FightingSpel",
-        "projectPath": "c:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj",
+        "projectPath": "C:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\FightingSpel.csproj",
         "packagesPath": "C:\\Users\\rasmus.eng\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\obj\\",
+        "outputPath": "C:\\Users\\rasmus.eng\\programering\\FightingSpel\\FightingSpel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
